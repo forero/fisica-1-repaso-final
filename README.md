@@ -5,6 +5,8 @@ Preguntas de selección múltiple para repasar antes del examen final de Física
 
 - [`parte-1.pdf`](parte-1.pdf): 17 preguntas de cinemática, leyes de Newton,
   trabajo y energía, y momentum.
+- [`parte-2.pdf`](parte-2.pdf): 17 preguntas de rotación, gravitación y
+  oscilaciones.
 
 La presentación termina con una lámina en blanco y, después de ella, las
 respuestas con una línea de justificación.
